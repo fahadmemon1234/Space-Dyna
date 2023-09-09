@@ -1,4 +1,4 @@
-<h2>Space-Dyna</h2>
+# Space-Dyna
 
 Space-Dyna Website Clone Design For HTML, CSS, JAVASCRIPT
 
