@@ -1,4 +1,4 @@
-![5](https://github.com/fahadmemon1234/Space-Dyna/assets/110020126/0eb98034-1153-4b3c-b056-801c761913f6)# Space-Dyna
+<h2>Space-Dyna</h2>
 
 Space-Dyna Website Clone Design For HTML, CSS, JAVASCRIPT
 
